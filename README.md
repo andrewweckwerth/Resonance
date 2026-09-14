@@ -1,6 +1,4 @@
-# Resonance
-
-**Describe a sound. Get a synth preset.**
+<img width="2848" height="1566" alt="Resonance_Landing" src="https://github.com/user-attachments/assets/11407bc0-0923-4804-bd2a-8d00f8757c43" />
 
 Resonance is an AI-powered discovery platform for Vital synthesizer presets. Describe the sound you want in plain English, and Resonance retrieves, previews, and lets you conversationally refine matching presets from a shared preset bank — no more scrolling through hundreds of vaguely-named patches.
 
