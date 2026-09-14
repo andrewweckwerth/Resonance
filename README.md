@@ -48,7 +48,7 @@ The presets used during development were sourced from a [shared Vital preset ban
 
 | Name | GitHub |
 |---|---|
-| Andrew Weckwerth | [@andrewchimney](https://github.com/andrewchimney) |
+| Andrew Weckwerth | [@andrewweckwerth](https://github.com/andrewweckwerth) |
 | Luiz Blum | [@LuizCauet](https://github.com/LuizCauet) |
 | Dylan Brewer-Fong | [@dylanbrewerfong](https://github.com/dylanbrewerfong) |
 | Louie Hidalgo | [@ldhidalgo3](https://github.com/ldhidalgo3) |
